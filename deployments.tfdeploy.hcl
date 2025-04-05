@@ -4,7 +4,7 @@ deployment "development" {
     }
 }
 
-deployment "development" {
+deployment "prod" {
     inputs = {
         name            = "prod"
     }
